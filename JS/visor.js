@@ -4,7 +4,7 @@ window.onload=function()
     mititulo=document.getElementById("titulo");
 }
 function mifoto(num){
-    f="/Recursos/Foto"+num+".jpg";
+    f="Recursos/Foto"+num+".jpg";
     document.images["fotoVisor"].src=f;
     t=document.images["Foto"+num].alt;
     mititulo.innerHTML=t;
