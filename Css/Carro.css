@@ -1,11 +1,8 @@
-*{ 
-    margin: 0px auto;
-    padding: 0px;
-}
+
 body{
     background-color: antiquewhite;
 }
-hl{
+h1{
     font: bold 1.5em arial;
     text-align: center;
     padding: 0.5em;
@@ -13,7 +10,7 @@ hl{
 #container{
     margin: 100px;
 }
-#visor{
+#viso{
     
     position: absolute;
   width: 450px;
